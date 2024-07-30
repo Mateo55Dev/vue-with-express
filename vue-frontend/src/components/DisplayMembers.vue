@@ -14,7 +14,6 @@ onMounted(async () => {
 });
 </script>
 
-
 <template>
   <div>
     <h1>Lista Rekordów</h1>
